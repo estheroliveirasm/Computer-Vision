@@ -4,4 +4,5 @@ This repository is a Computer Vision laboratory focused on image processing usin
 Data persistence is handled via JSON files for efficient management of metadata and project configurations. The system features specialized scripts for normalizing medical X-rays through negative transformations, artistic composition algorithms for background replacement, and mathematical operations using NumPy for multidimensional array manipulation and logical masking.
 
 **Developer:** Esther de Oliveira
+
 **Institution:** The Lab School - UFSC
