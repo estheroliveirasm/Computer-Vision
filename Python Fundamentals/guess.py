@@ -45,7 +45,6 @@ def play_game():
             print("The AI was told: Lower! ↓")
             ai_max = ai_guess - 1
 
-    # --- Result ---
     # Final feedback based on the win condition
     if user_won:
         print(f"\nCongratulations! You found the number {secret_number} and beat the AI!")
