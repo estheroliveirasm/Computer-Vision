@@ -1,7 +1,12 @@
 # Computer Vision Laboratory - The Lab School
-This repository is a Computer Vision laboratory focused on image processing using Python, OpenCV, and NumPy. Developed during the The Lab School course, the project covers everything from programming logic to applied image engineering, including binarization with Otsu's thresholding and smoothing filters like Gaussian and Median Blur.
+A collection of Python exercises and lessons created during The Lab School course. The project introduces image processing, computer vision, and deep learning with Python.
 
-The system features specialized scripts for normalizing medical X-rays through negative transformations and artistic composition algorithms for background replacement. Furthermore, it includes a shape detection system that identifies objects and classifies colors, as well as real-time video processing capabilities for applying computer vision filters to live webcam feeds. Data persistence is handled via JSON files for efficient management of metadata and project configurations.
+## Project contents
+
+- **Image Processing/** — examples covering NumPy arrays, drawing, color and pixel manipulation, thresholding, masks, blur filters, shape detection, webcam filtering, and X-ray image inversion.
+- **Python Fundamentals/** — command-line exercises covering JSON files, a number guessing game, and a shopping list.
+- **Deep Learning/** — Jupyter notebooks for CNN training, data augmentation and transfer learning, and object detection with YOLO.
+- **Assets/** — sample images used by the image-processing scripts and generated output images.
 
 **Developer:** Esther de Oliveira
 
